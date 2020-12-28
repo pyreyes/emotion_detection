@@ -4,4 +4,4 @@ This is is my individual contribution to the group project titled Intelligent Em
 
 We used FER2013 dataset available through Kaggle. The dataset consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. Our objective is to categorize each image into one of seven emotions (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
 
-![alt text] (fer2013_img.png)
+![alt text] (../fer2013_img.png)
